@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>app/views/carts/show.html.erb</string>
+	<string>app/views/line_items/create.js.rjs</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -31,6 +31,8 @@
 			<string>config.ru</string>
 		</dict>
 		<dict>
+			<key>expanded</key>
+			<true/>
 			<key>name</key>
 			<string>db</string>
 			<key>regexFolderFilter</key>
@@ -108,31 +110,31 @@
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
-	<integer>200</integer>
+	<integer>305</integer>
 	<key>metaData</key>
 	<dict>
-		<key>app/controllers/store_controller.rb</key>
+		<key>app/controllers/line_items_controller.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>27</integer>
+				<integer>17</integer>
 				<key>line</key>
-				<integer>2</integer>
+				<integer>49</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>38</integer>
 		</dict>
-		<key>app/views/carts/show.html.erb</key>
+		<key>app/views/line_items/create.js.rjs</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>38</integer>
 				<key>line</key>
-				<integer>6</integer>
+				<integer>0</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -156,11 +158,12 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>app/views/carts/show.html.erb</string>
+		<string>app/controllers/line_items_controller.rb</string>
+		<string>app/views/line_items/create.js.rjs</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{437, 432}, {1003, 446}}</string>
+	<string>{{315, 393}, {1003, 446}}</string>
 </dict>
 </plist>
